@@ -4,11 +4,11 @@
 	"mailpoet_list_id": "3",
 	"subcription_widget": {
 		"enable": true,
-		"title": "Stay up to date",
-		"description": "Get notified when I publish something new, and unsubscribe at any time.",
-		"placeholder": "Enter your email address",
-		"success_message": "Thank you for subscribing. You're in!",
-		"error_message": "Something went wrong. Please try again. If the problem persists, you can contact me."
+		"title": "Güncel kalın",
+		"description": "Yeni bir şey yayımlandığında haberdar olun ve güncel kalın.",
+		"placeholder": "E-posta adresinizi yazın",
+		"success_message": "Abone olduğunuz için teşekkür ederiz. Artık bizdensiniz!",
+		"error_message": "Bir şeyler ters gitti. Lütfen tekrar deneyin. Sorun devam ederse bizimle iletişime geçebilirsiniz."
 	},
 	"newsletter_section": {
 		"enable": true,
@@ -33,7 +33,7 @@
 	},
 	"site_info": {
 		"site_title": "7 Yazar",
-		"site_description": "7 Gün 7 Kalem",
+		"site_description": "İnsan, her gün başka bir kelimeyle başlar kendini anlamaya.",
 		"site_keywords": "7 yazar",
 		"site_author": "Said Efe",
 		"site_email": "Your Email",
@@ -179,32 +179,32 @@
 		]
 	},
 	"resetPassword_page": {
-		"title": "Lost your password?",
-		"sub_title": "Enter your email below to reset your password.",
+		"title": "Şifrenizi mi unuttunuz?",
+		"sub_title": "Şifrenizi sıfırlamak için aşağıya e-postanızı girin.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "İnsan, her gün başka bir kelimeyle başlar kendini anlamaya.",
+			"author": "7yazar"
 		}
 	},
 	"signUp_page": {
-		"title": "Create an account",
-		"sub_title": "Enter your email below to create your account.",
+		"title": "Bir hesap oluşturun",
+		"sub_title": "Hesabınızı oluşturmak için aşağıya e-postanızı girin.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Yedi gün. Yedi kelime. Yedi bakış. Okudukça çoğalır insan.",
+			"author": "7yazar"
 		}
 	},
 	"signIn_page": {
-		"title": "Sign in to your account",
-		"sub_title": "Enter your email below to sign in to your account.",
+		"title": "Hesabınıza giriş yapın",
+		"sub_title": "Hesabınıza giriş yapmak için lütfen aşağıya e-postanızı girin.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Her yazı, zihne açılan küçük bir kapıdır. Yedi gün, yedi kapı. Hepsinden geç, kendine var.",
+			"author": "7yazar"
 		},
 		"lost_password": {
 			"is_use_lostpassword_default_of_wp": false,
-			"message": "Lost password not implemented yet! Please contact admmin for support.",
-			"url_lostpassword_default_of_wp": "https://yourwebsite.com/wp-login.php?action=lostpassword"
+			"message": "Kayıp şifre henüz uygulanmadı! Lütfen destek için yöneticiyle iletişime geçin.",
+			"url_lostpassword_default_of_wp": "https://www.7yazar.com/wp-login.php?action=lostpassword"
 		}
 	},
 	"mobile_nav_sidebar": {
