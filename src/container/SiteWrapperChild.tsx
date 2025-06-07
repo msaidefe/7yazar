@@ -118,8 +118,7 @@ export function SiteWrapperChild({
 
 	return (
 		<div>
-			<CookiestBoxPopover />
-			<ControlSettingsDemo />
+			<CookiestBoxPopover />			
 			<MusicPlayer />
 		</div>
 	)
