@@ -18,7 +18,7 @@
 		"features_list": ["Create a free account.", "Write your stories."]
 	},
 	"top_banner": {
-		"enable": true,
+		"enable": false,
 		"description": "-50% Intro price for the next 72 hours only!.",
 		"end_link": {
 			"url": "https://themeforest.net/item/ncmaz-nextjs-headless-wordpress-blog-magazine/47815656",
@@ -32,10 +32,10 @@
 		"sub_title": "Let's explore the most popular categories"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
+		"site_title": "7 Yazar",
+		"site_description": "7 Gün 7 Kalem",
+		"site_keywords": "7 yazar",
+		"site_author": "Said Efe",
 		"site_email": "Your Email",
 		"site_phone": "Your Phone",
 		"site_address": "Your Address",
@@ -43,7 +43,7 @@
 		"site_state": "Your State",
 		"site_zip": "Your Zip",
 		"site_country": "Your Country",
-		"site_url": "https://www.yoursite.com",
+		"site_url": "https://www.7yazar.com",
 		"site_logo": "/logo.png",
 		"site_logo_light": "/logo-light.png",
 		"site_favicon": "/favicon.png"
