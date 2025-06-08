@@ -24,12 +24,12 @@ export default function Page404Content() {
 				</div>
 				<div className="mx-auto max-w-2xl text-center">
 					<h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-4xl">
-						🌀 404 – Aradığın Sayfa, Bu Kitapta Yok.
+						🌀 Aradığın Sayfa, Bu Kitapta Yok.
 					</h1>
 					<p className="mt-4 text-base leading-7 text-gray-600 dark:text-neutral-400">
-						“Bazı sayfalar yazılmamış olabilir.
-						Bazı yollar, henüz düşünülmemiş.
-						Ama her gün yeni bir yazıyla başlıyor bu hikâye...
+						“Bazı sayfalar yazılmamış olabilir.<br />
+						Bazı yollar, henüz düşünülmemiş.<br />
+						Ama her gün yeni bir yazıyla başlıyor bu hikâye...<br />
 						Geri dön, bir kelimeyle yeniden başla.”
 					</p>
 					<div className="mt-10 flex justify-center">
@@ -40,7 +40,7 @@ export default function Page404Content() {
 							<span className="me-2 rtl:rotate-180" aria-hidden="true">
 								&larr;
 							</span>
-							Anasayfaya Dön
+							Ana Sayfaya Dön
 						</Link>
 					</div>
 				</div>
