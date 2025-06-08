@@ -8,8 +8,8 @@ export default function Page404Content() {
 	return (
 		<div className="">
 			<SEO
-				title={'This page does not exist (404)'}
-				description={'Sorry, we couldn’t find the page you’re looking for.'}
+				title={'Aradığın Sayfa, Bu Kitapta Yok (404)'}
+				description={'Üzgünüz, aradığınız sayfayı bulamadık.'}
 			/>
 
 			<main className="mx-auto w-full max-w-7xl px-6 pb-16 pt-5 sm:pb-20 lg:px-8">
@@ -24,10 +24,13 @@ export default function Page404Content() {
 				</div>
 				<div className="mx-auto max-w-2xl text-center">
 					<h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-4xl">
-						Page not found
+						🌀 404 – Aradığın Sayfa, Bu Kitapta Yok.
 					</h1>
 					<p className="mt-4 text-base leading-7 text-gray-600 dark:text-neutral-400">
-						Sorry, we couldn’t find the page you’re looking for.
+						“Bazı sayfalar yazılmamış olabilir.
+						Bazı yollar, henüz düşünülmemiş.
+						Ama her gün yeni bir yazıyla başlıyor bu hikâye...
+						Geri dön, bir kelimeyle yeniden başla.”
 					</p>
 					<div className="mt-10 flex justify-center">
 						<Link
@@ -37,7 +40,7 @@ export default function Page404Content() {
 							<span className="me-2 rtl:rotate-180" aria-hidden="true">
 								&larr;
 							</span>
-							Back to home
+							Anasayfaya Dön
 						</Link>
 					</div>
 				</div>
